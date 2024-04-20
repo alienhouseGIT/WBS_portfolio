@@ -1,13 +1,13 @@
 
 # WBS_portfolio
 
-<H1>Hello World! - Introduction
+<H1>Hello World! - Introduction</H1>
 
 This a personal portfolio created during the [Data-Science](https://en.wikipedia.org/wiki/Data_science)-~~Course~~**Bootcamp** at [WBS Coding School.](https://www.wbscodingschool.com/data-science-bootcamp-part-time) 
 
 It displays some of my work and archievements during this 26+two weeks of progress and enlightment. And data science. And python. And a lot of ***fun***! :smile:
 
-<H1> The Primer
+<H1> The Primer</H1>
 Right before the beginning of the cource, we learnt the basisc of 
 
  - Statistics
@@ -25,7 +25,7 @@ Tableau is a mighty software not only to visualize but even more to storify data
 
 Simple, yet not easy. 
 
-<H1>First steps
+<H1>First steps</H1>
 
 In the first two was to get to know about 
 
@@ -48,9 +48,10 @@ Just kidding - a complete file with my first attemps to use Tableau for visualis
 After two intense weeks, out team finished our presentation during the last minutes. This was a wonderful experience. 
 We used Google Slides to condense our conclusions and create the final presentation. 
 
-
-finally:	
-	CreateGitHubRepo([this](https://github.com/alienhouseGIT/WBS_portfolio))
+    finally:
+       CreateGitHubRepo([this](https://github.com/alienhouseGIT/WBS_portfolio))
+finally:
+  CreateGitHubRepo([this](https://github.com/alienhouseGIT/WBS_portfolio))
 
 ![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj35rDomi3mKlxk0p11oGDOOsFfs3KtxPlFhZrH_NOeQFc7iLXXDcSU7D14ooYBqkhWsc&usqp=CAU)
 
