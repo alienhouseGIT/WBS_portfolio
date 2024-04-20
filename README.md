@@ -37,7 +37,7 @@ In the first two was to get to know about
 So we startet with a real-world business usecase. 
 ... 
 
-SQL-File
+[SQL-File](https://github.com/alienhouseGIT/WBS_portfolio/blob/main/Group2%20-%20Task%203%20-%20Business%20Questions%20-%20WIP%20.sql)
 
 Tableau gives the possibility to share your stuff with the world and eternity. So let's do this.
 
